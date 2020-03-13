@@ -1,3 +1,4 @@
+// ----------- DESTRUCTURANDO OBJETOS EN JAVASCRIPT --------
 // Declaramos un objeto
 var jorge = {
   nombre: "Jorge",

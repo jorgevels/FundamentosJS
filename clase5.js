@@ -1,4 +1,4 @@
-// Alcance de una funcion
+//------- ALCANCE DE UNA FUNCION EN JAVASCRIPT --------
 
 // Declaramos la varible
 // Si una variable esta definida fuera de-

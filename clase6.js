@@ -1,3 +1,5 @@
+//--------  OBJETOS EN JAVASCRIPT ---------------
+
 // Declaramos  un objeto con los atributos de-
 //una persona
 var jorge = {

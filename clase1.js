@@ -1,3 +1,5 @@
+//-------   VARIALBLES EN JAVASCRIPT ----------
+
 // Podemos agregar variables en una misma linea
 // agregando una coma ,
 // string se interpreta con comillas sinple o dobles

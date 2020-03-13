@@ -1,3 +1,4 @@
+// ----------NUMEROS EN JAVASCRIPT------------
 // Variables numericas
 var edad = 27;
 

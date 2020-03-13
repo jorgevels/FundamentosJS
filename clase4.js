@@ -1,3 +1,5 @@
+//------- FUNCIONES EN JAVASCRIPT ---------
+
 // Las funciones son trosos de codigo-
 //reutilizables
 

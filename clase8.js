@@ -1,3 +1,4 @@
+// ----- PARAMETROS POR VALOR DE REFERENCIA EN JAVASCRIPT -----
 // Declamos un objeto
 var Jorge = {
   nombre: "Jorge",
@@ -33,7 +34,6 @@ imprimirNombreEnMayusculas(Matias);
 // si los modificamos dentro del cuerpo de una-
 // funcion su valor de va haber modificado-
 // fuera de esa funcion
-
 function cumpleanos(persona) {
   // Retormanos de esta funcion un objeto nuevo-
   // copiando todo lo que tenia el objeto anterior
@@ -50,5 +50,5 @@ function cumpleanos(persona) {
     edad: persona.edad + 1
   };
 }
-// debemos tener encuenta con js al pasarle
-// un objeto como parametros
+// debemos tener encuenta como se comporta
+//JS al pasarle un objeto como parametros

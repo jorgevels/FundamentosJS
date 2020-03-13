@@ -1,3 +1,5 @@
+// -------- STRING EN JAVASCRIPT--------
+
 // Declaramos las variables
 var nombre = "Jorge",
   apellido = "Velasquez";
