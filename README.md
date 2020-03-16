@@ -6,7 +6,7 @@ _En este repositorio encontrasas todas las clases de del curso de javascript_
 
 _Cada una de las clases estan separadas y en orden cronologico._
 
-_Como valor agregado cada pedazo de codigo esta comentado al detalle._
+_Como valor agregado cada pedazo de codigo esta comentado al detalle 👨‍💻._
 
 ## Construido con 🛠️
 
