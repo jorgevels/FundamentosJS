@@ -1,4 +1,4 @@
-// ---MANEJO DE ERRORES CON COLLBACK
+// ---MANEJO DE ERRORES CON CALLBACKS
 
 // Vamos a solucionar el error si a la mitad-
 // de uno de los requests nos quedamos sin internet
@@ -13,11 +13,9 @@ function obtenerPersonaje(id, callback) {
   // Refactorizando
   // llamamos al collback para que nos venga por parametro
 
-
   // Podemos encadenar al metodo fail para-
   // controlar cuando se presente un error
   $.get(url, opts, callback).fail(() => {
-    
     // Por console le pasamos el mensaje de
     //error al obtener el personaje con el id
     console.log(`Sucedió un error. No se pudo obtener el personaje ${id}`);
@@ -28,7 +26,7 @@ function obtenerPersonaje(id, callback) {
 // lo aplicamos para cada uno los demas callback
 
 // Al obetener el persona 1 le pasamos como-
-// parametro este collback 
+// parametro este collback
 obtenerPersonaje(1, function(personaje) {
   console.log(`Hola, yo soy ${personaje.name}`);
 

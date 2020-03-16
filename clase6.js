@@ -36,7 +36,9 @@ function imprimirNombreEnMayusculas({ nombre, edad }) {
 //imprimimos los valores del objeto jorge
 // como parametros le pasaamos el objeto entero
 // y ya la funcion sabra a que atributos tiene que acceder
+
 imprimirNombreEnMayusculas(jorge);
+
 // impromimos los valores del objeto lizeth
 // como parametros le pasamos el objeto entero
 // y ya la funcion sabra a que atributos tiene que acceder
@@ -46,6 +48,7 @@ imprimirNombreEnMayusculas(lizeth);
 // a los objetos que ya tenemos
 // podemos crear un nuevo objeto y le definimos su valor
 imprimirNombreEnMayusculas({ nombre: "Pepito" });
+
 // si lo invocamos sin valor nos arroja error
 // porque la funcion esta intendado de aceder
 // No podemos desglosar un objeto si no estamos

@@ -1,4 +1,5 @@
 //---------OBJETOS EN JAVASCRIPT-------
+
 // Cuando hablamos de objetos en JS estamos
 // hablando de prototipos y no tanto de clases
 // si bien en las nuevas versiones de JS Existen-

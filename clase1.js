@@ -2,7 +2,7 @@
 
 // Podemos agregar variables en una misma linea
 // agregando una coma ,
-// string se interpreta con comillas sinple o dobles
+// string se interpreta con comillas sinples o dobles
 // por convencion se utilizan las comillas simples
 // El punto y como es algo opcional
 // Hay casos puntuales para el uso de punto y coma ;

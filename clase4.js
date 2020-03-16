@@ -15,7 +15,6 @@ var nombre = "Jorge",
 // para delimitar el cuerpo de la funcion utilizamos las llaves {}
 // para que la funcion tenga cobre mayor valor
 // le pasamos dos parametros para que reciba
-//
 function imprimirEdad(n, e) {
   // este es el cuerpo de la funcion
   // este es el codigo reutilizable
@@ -35,6 +34,7 @@ imprimirEdad("Darío", 27);
 
 // Para JS es indistinto si le cambiamos el orden de como llamamos las variables
 imprimirEdad(25, "Carlos");
+
 // Si no le pasamos una variable
-// imprime el codigo y muestra un resultado como undefine
+// imprime el codigo y muestra un resultado como undefined
 imprimirEdad("Juan");

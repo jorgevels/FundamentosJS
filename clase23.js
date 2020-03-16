@@ -1,4 +1,5 @@
 //---- QUIEN ES THIS EN LAS FUNCIONES-----
+
 // En la clase anterior dejamos un error, nos-
 // pasaba que la unica persona que creamos que-
 // era alta nos decia que no era alta

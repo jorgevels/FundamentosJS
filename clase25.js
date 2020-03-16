@@ -1,4 +1,5 @@
 // ------ CLASES EN JAVASCRIPT------
+
 // Apartir del año 2015 JS se fue actualizando-
 // año tras año desde halli podemos encontrar-
 // distintas versiones con los nombres ECMASCRIPT-

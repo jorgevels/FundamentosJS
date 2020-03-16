@@ -8,7 +8,8 @@ var personas = {
   nombre: "Jorge",
   apellido: "Velasquez",
   edad: 28,
-  // utilizamos un valot booleano para definir-
+
+  // utilizamos un valor booleano para definir-
   // si es false o true
   ingeniero: true,
   cocinero: false,
@@ -21,17 +22,19 @@ var personas = {
 // Definimos una funcion que imprima la-
 // profesion de las personas y como parametro-
 // y por parametros le pasamos el valor de persona
+
 function imprimirProfesiones(persona) {
   // primeramente le pedimos que nos muestre
   // por consola el nombre de la persons
   // con template string que nos permie interpolar-
   // variables
   console.log(`${persona.nombre} es:`);
+
   // con esta condicional imprimimos las profesiones-
   // que cumplan la condicion de true
+
   if (persona.ingeniero) {
     // este console se imprime si la condicion es true
-
     console.log("Ingeniero");
   } else {
     // si no es true imprime este mensaje

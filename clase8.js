@@ -1,10 +1,12 @@
 // ----- PARAMETROS POR VALOR DE REFERENCIA EN JAVASCRIPT -----
+
 // Declamos un objeto
 var Jorge = {
   nombre: "Jorge",
   apellido: "Velasquez",
   edad: 28
 };
+
 // Declaramos un segundo objeto
 var Matias = {
   nombre: "Matias",
@@ -17,6 +19,7 @@ var Matias = {
 function imprimirNombreEnMayusculas(persona) {
   // var nombre = persona.nombre
   var { nombre } = persona;
+
   // pasamos por consola el nombre
   // y lo pasa a mayusculas
   console.log(nombre.toUpperCase());
@@ -43,6 +46,7 @@ function cumpleanos(persona) {
     // o podemos incorporar nuevos si quisieramos
 
     ...persona,
+
     // para modificar la edad y sumarle un año
     // lo que hace esta funcion es devolvernos
     // un nuevo objeto con una persona mas vieja

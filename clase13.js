@@ -1,4 +1,5 @@
 //--- ESTRUCTURAS REPETITIVAS <FOR> -------
+
 // El for nos va permitir realizar cierta tarea de-
 // de manera repetitiva, vamos a poder realizarla-
 // cierta cantidad de veces

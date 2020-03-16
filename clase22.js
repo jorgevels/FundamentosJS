@@ -1,4 +1,5 @@
 // ------MODIFICANDO UN PROTOTIPO------
+
 // Los prototipos en JS y la diferencia con el-
 // sistema de herencias de otros lenguajes
 

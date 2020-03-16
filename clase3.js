@@ -1,4 +1,5 @@
 // ----------NUMEROS EN JAVASCRIPT------------
+
 // Variables numericas
 var edad = 27;
 
@@ -44,6 +45,7 @@ var total2 = parseFloat(totalStr);
 //Divisiones
 var pizza = 8;
 var personas = 2;
-// a la variable cantidadDePorsones
+
+// a la variable cantidadDePorsonas
 // la igualamos con el valor de pizza divido la cantidad de personas
 var cantidadDePorcionesPorPersona = pizza / personas;

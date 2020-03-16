@@ -1,4 +1,5 @@
 // ------ ASINCRONISMO EN JAVASCRIPT------
+
 // JavaScript solo puede hacer una cosa a la vez-
 // sin importar cuantos nucleos tenga su computadora-
 // o tu server JS solo va poder ejecutar una tarea a la vez

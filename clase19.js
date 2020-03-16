@@ -1,4 +1,5 @@
 //----------TRANSFORMAR UN ARRAY---------
+
 // Vamos a profundizar acerca de la funcion map
 // La funcion map a diferencia de filter lo que-
 // hace es devolvernos un nuevo array en el cual-

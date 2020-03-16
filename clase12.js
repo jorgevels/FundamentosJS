@@ -1,3 +1,5 @@
+// --------ARROW FUNCTION-------
+
 // Arrow Function otra manera de escribir las funciones
 // en JS podemos Asignar a una variable una funcion
 // Declaramos un objeto personas con algunos-

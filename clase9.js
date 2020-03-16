@@ -3,7 +3,6 @@
 // Declaramos las variables x and y
 // el  = igual sirve para asignar un valor
 // a una variable
-
 var x = 4,
   y = "4";
 

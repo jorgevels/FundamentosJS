@@ -1,4 +1,5 @@
-// --- REDUCIR UN ARRAY A UN VALOR---
+// ------- REDUCIR UN ARRAY A UN VALOR -------
+
 // Reducir tiene la funcion de reducir un array-
 // a un valor unico.
 // Para el ejemplo se le agregaron la cantidad de libros-

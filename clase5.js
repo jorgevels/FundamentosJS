@@ -15,6 +15,7 @@ function imprimirNombreEnMayusculas(nombre) {
   // a mayusculas
   // el string nuevo en mayusculas lo asignamos a nombre
   nombre = nombre.toUpperCase();
+
   // imprimimos por consola el valor del string de la variable nombre
   console.log(nombre);
 }

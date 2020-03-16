@@ -1,4 +1,5 @@
 //----CONDICIONAL MULTIPLE SWITCH-----
+
 // Es una estructua de control que nos permite_
 // decidir que codigo ejecutar de acuerdo a-
 // multiples condiciones

@@ -1,3 +1,5 @@
+// ---------- FUNCIONES QUE RETORNAN VALORES -----------
+
 // Estructuras de control
 // Condicionales
 // Declaramos un objeto personas con algunos-
@@ -6,6 +8,7 @@ var personas = {
   nombre: "Jorge",
   apellido: "Velasquez",
   edad: 28,
+
   // utilizamos un valot booleano para definir-
   // si es false o true
   ingeniero: true,
@@ -31,11 +34,11 @@ function imprimirProfesiones(persona) {
   // con template string que nos permie interpolar-
   // variables
   console.log(`${persona.nombre} es:`);
+
   // con esta condicional imprimimos las profesiones-
   // que cumplan la condicion de true
   if (persona.ingeniero) {
     // este console se imprime si la condicion es true
-
     console.log("Ingeniero");
   } else {
     // si no es true imprime este mensaje
